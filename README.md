@@ -1,2 +1,2 @@
-# Trof-uSemantec
+# Troféu da Semantec
 Troféu da SEMANTEC
